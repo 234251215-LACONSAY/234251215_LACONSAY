@@ -1,0 +1,288 @@
+    1  pkg update
+    2  wsl
+    3  wls
+    4  clear
+    5  pkg update
+    6  clear
+    7  pkg install cmatrix
+    8  pkg update
+    9  clear
+   10  wsl
+   11  pkg install
+   12  pkg intall
+   13  clear
+   14  pkg update
+   15  termux-change-repo
+   16  clear
+   17  pkg update
+   18  pkg install Cmatrix
+   19  pkg update
+   20  pkg install Cmatrix
+   21  pkg install repo
+   22  pkg install root-repo
+   23  apt update
+   24  apt install install cmatrix
+   25  apt install cmatrix
+   26  pkg install proof-distroo
+   27  apt install proof-distroo
+   28  clear
+   29  apt install proof-distroo
+   30  apt install proot-distroo
+   31  apt install proot-distro
+   32  proot-distro-install ubuntu
+   33  proot-distro-install Ubuntu
+   34  pkg update
+   35  pkg install proot-distro
+   36  proot-distro install ubuntu
+   37  proot-distro login ubuntu
+   38  clear
+   39  wsl
+   40  proot-distro login ubuntu
+   41  pkg search java
+   42  apache2
+   43  pkg apache2
+   44  pkg search apache2
+   45  pkg install apache2
+   46  apache 2
+   47  apache2
+   48  exit
+   49  apache2
+   50  ubuntu
+   51  proot-distro login ubuntu
+   52  pkg upgrade
+   53  pkg update
+   54  pkg install git
+   55  pkg install openjdk-17
+   56  nano hellowworld
+   57  clear
+   58  nano HellowWorld.Java
+   59  java HelloWorld
+   60  nano HelloWorld.java
+   61  java HellowWorld
+   62  javac HelloWorld.java
+   63  java HellowWorld
+   64  Java HellowWorld
+   65  java HelloWorld
+   66  git clone https://github.com/234251215-LACONSAY/234251215_LACONSAY
+   67  Exit
+   68  clear
+   69  java HellowWorld
+   70  java HelloWorld
+   71  git status
+   72  mkdir -p 234251215-LACONSAY
+   73  cd 234251215-LACONSAY
+   74  https://github.com/234251215-LACONSAY/234251215_LACONSAY
+   75  git clone https://github.com/234251215-LACONSAY/234251215_LACONSAY 234251215_LACONSAY
+   76  exit
+   77  git status
+   78  https://github.com/234251215-LACONSAY/234251215_LACONSAY
+   79  git clone https://github.com/234251215-LACONSAY/234251215_LACONSAY 234251215_LACONSAY
+   80  exit
+   81  cd ~/234251215-LACONSAY/234251215_LACONSAY
+   82  ls
+   83  git status
+   84  git log
+   85  git remote -v
+   86  exit
+   87  gh auth login
+   88  git status
+   89  cd ~/234251215-LACONSAY/234251215_LACONSAY
+   90  ls
+   91  git status
+   92  git log
+   93  git remote -v
+   94  cd-
+   95  cd ~
+   96  cd -
+   97  cd ~
+   98  java HellowWorld
+   99  java HelloWorld
+  100  nano Calculator.java
+  101  java Calculator
+  102  java Calculator.java
+  103  clear
+  104  java Calculator.java
+  105  java Calculator
+  106  clear
+  107  java Calculatot.java
+  108  clear
+  109  java Calculator.java
+  110  javac Calculator.java
+  111  nano Calcu.java
+  112  javac Calcu.java
+  113  clear
+  114  java Calcu.java
+  115  java Calcu
+  116  javac Calcu.java
+  117  clear
+  118  java Calcu.java
+  119  javac Calcu.java
+  120  java Calcu
+  121  cd ~234251215-LACONSAY/234251215_LACONSAY
+  122  clear
+  123  java Calcu.java
+  124  javac Calcu.java
+  125  java Calcu
+  126  javac Calcu.java
+  127  java Calcu
+  128  cd ~/234251215-LACONSAY/234251215_LACONSAY
+  129  ls
+  130  git staus
+  131  git status
+  132  git log
+  133  git remote -v
+  134  fetch
+  135  clear
+  136  ls
+  137  git status
+  138  git log
+  139  git -remote -v
+  140  git remote -v
+  141  clwar
+  142  clear
+  143  ~ c
+  144  ~c
+  145  c ~
+  146  cd~
+  147  ~cd
+  148  ~ cd
+  149  clear
+  150  cd ~/234251215-LACONSAY/234251215_LACONSAY
+  151  clear
+  152  ls
+  153  git staus
+  154  exit
+  155  cd ~/234251215-LACONSAY/234251215-LACONSAY
+  156  cd ~/234251215-LACONSAY/234251215_LACONSAY
+  157  ls
+  158  git status
+  159  git log
+  160  git remote -v
+  161  git status
+  162  git log -p
+  163  ,q
+  164  exit
+  165  java calcu.java
+  166  java Calcu.java
+  167  javac Calcu.java
+  168  cd ~/234251215-LACONSAY/234251215_LACONSAY
+  169  ls
+  170  git status
+  171  git log
+  172  git remote -v
+  173  cd~
+  174  clear
+  175  ls
+  176  git status
+  177  git log
+  178  git remote -v
+  179  git status
+  180  ls
+  181  git log -p
+  182  exit
+  183  distro-proot login ubuntu
+  184  exit
+  185  distro proot login ubuntu
+  186  proot distro-login ubuntu
+  187  distro proot-login ubuntu
+  188  proot-distro login ubuntu
+  189  pkg update
+  190  pkg install openssh
+  191  sshd
+  192  ip addr show wlan0
+  193  pkg install iproute2
+  194  ip addr show wlan0
+  195  passwd
+  196  ssh adrian_ralph@192.168.1.3
+  197  proot-distro login ubuntu 
+  198  ssh root@localhost
+  199  sudo systemct1 start ssh
+  200  pkg install tsu
+  201  apt update && apt upgrade -y
+  202  sudo sysmtemctl start ssh
+  203  ssh root@localhost
+  204  proot-distro login ubuntu
+  205  pkg install python3
+  206  exit
+  207  history.log
+  208  clear
+  209  exam_log.txt
+  210  clear
+  211  proot-distro login ubuntu
+  212  cd ~/234251215-LACONSAY/234251_LACONSAY
+  213  cd ~/234251215-LACONSAY/234251215_LACONSAY
+  214  ls
+  215  ~ls
+  216  exit
+  217  .bash_history
+  218  clear
+  219  cd ~/234251215-LACONSAY/234251215_LACONSAY
+  220  .bash_history
+  221  mkdir linux_practice
+  222  mv linux_practice
+  223  cd linux_practice
+  224  mkdir notes.txt
+  225  cd notes.txt
+  226  append
+  227  clear
+  228  exit
+  229  cd ~234251215-LACONSAY/234251215_LACONSAY
+  230  cd ~/234251215-LACONSAY/234251215_LACONSAY
+  231  mkdir linux_practice
+  232  mv linux_practice
+  233  mkdir linux_practice
+  234  cd mkdir_practice
+  235  cd linux_practice
+  236  touch note.txt
+  237  cd note.txt
+  238  mkdir note.txt
+  239  cd note.txt
+  240  clear
+  241  append >notes.txt
+  242  ls
+  243  append <notes.txt
+  244  clear
+  245  history
+  246  clear
+  247  ls >> notes.txt
+  248  ls note.txt
+  249  cat notes.txt
+  250  cat note.txt
+  251  echo "Hello,Linux!" > note.txt
+  252  echo "This is a practical exam." >> note.txt
+  253  head -n l note.txt
+  254  head -n 1 note.txt
+  255  tail -n 1 note.txt
+  256  mkdir subdir
+  257  mv note.txt subdir/
+  258  mv subdir practice_subdir
+  259  cp practice_subdir/note.txt .
+  260  date
+  261  uptime
+  262  du -sh ~
+  263  ssh -V
+  264  php -v
+  265  pkg install php
+  266  php -v
+  267  mysql --version
+  268  pkg install mariadb
+  269  mysql --version
+  270  apache -v
+  271  apache1 -v
+  272  apachel -v
+  273  apachecl-v
+  274  apachectl -v
+  275  python --version
+  276  pkg install python
+  277  java -version
+  278  ls
+  279  gh repo clone https://github.com/234251215-LACONSAY/234251215_LACONSAY
+  280  pkg install gh
+  281  gh repo clone https://github.com/234251215-LACONSAY/234251215_LACONSAY
+  282  gh auth login
+  283  gh repo clone https://github.com/234251215-LACONSAY/234251215_LACONSAY
+  284  gh auth login
+  285  gh repo clone https://github.com/234251215-LACONSAY/234251215_LACONSAY
+  286  cd 234251215_LACONSAY
+  287  git checkout -b finalexam
+  288  history > exam_log.txt
