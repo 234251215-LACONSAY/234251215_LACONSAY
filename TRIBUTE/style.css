@@ -1,0 +1,148 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(45deg, #6a11cb, #2575fc);
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+    position: relative;
+}
+
+header img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 10px 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    font-weight: 300;
+}
+
+.bio {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 20px;
+    background-color: #fff;
+}
+
+.bio img {
+    width: 40%;
+    border-radius: 8px;
+}
+
+.bio .info {
+    width: 55%;
+}
+
+.bio .info h2 {
+    font-size: 2rem;
+    color: #2575fc;
+    margin-bottom: 20px;
+}
+
+.bio .info p {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.timeline {
+    background-color: #eee;
+    padding: 50px 20px;
+}
+
+.timeline h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #2575fc;
+}
+
+.timeline ul {
+    list-style: none;
+    padding: 0;
+}
+
+.timeline li {
+    background-color: white;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.timeline .event-year {
+    font-weight: 700;
+    color: #6a11cb;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color: #2575fc;
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 15px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.contact {
+    padding: 30px 20px;
+    background-color: #fff;
+}
+
+.contact h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #2575fc;
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact input,
+.contact textarea {
+    width: 80%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.contact button {
+    padding: 12px 30px;
+    background-color: #6a11cb;
+    border: none;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.contact button:hover {
+    background-color: #2575fc;
+}
